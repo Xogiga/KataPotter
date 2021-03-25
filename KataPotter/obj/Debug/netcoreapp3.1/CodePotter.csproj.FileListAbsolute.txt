@@ -1,0 +1,13 @@
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\bin\Debug\netcoreapp3.1\CodePotter.exe
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\bin\Debug\netcoreapp3.1\CodePotter.deps.json
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\bin\Debug\netcoreapp3.1\CodePotter.runtimeconfig.json
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\bin\Debug\netcoreapp3.1\CodePotter.runtimeconfig.dev.json
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\bin\Debug\netcoreapp3.1\CodePotter.dll
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\bin\Debug\netcoreapp3.1\CodePotter.pdb
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\obj\Debug\netcoreapp3.1\CodePotter.csprojAssemblyReference.cache
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\obj\Debug\netcoreapp3.1\CodePotter.AssemblyInfoInputs.cache
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\obj\Debug\netcoreapp3.1\CodePotter.AssemblyInfo.cs
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\obj\Debug\netcoreapp3.1\CodePotter.csproj.CoreCompileInputs.cache
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\obj\Debug\netcoreapp3.1\CodePotter.dll
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\obj\Debug\netcoreapp3.1\CodePotter.pdb
+C:\Users\TroubadourSédentaire\Documents\prgm\kata\C#\KataPotter\KataPotter\KataPotter\obj\Debug\netcoreapp3.1\CodePotter.genruntimeconfig.cache
